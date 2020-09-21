@@ -18,7 +18,8 @@ public class ArrayListMethod {
         System.out.println("size:"+list.size());
         System.out.println("remove:"+list.remove(0));
         for (int i = 0; i <list.size() ; i++) {
-            System.out.println(list.get(i+1));
+            System.out.println(list.get(i+1+1));
+            //hello git * 3
         }
     }
 }
