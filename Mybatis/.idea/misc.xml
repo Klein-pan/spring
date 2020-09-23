@@ -5,6 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../Mybatis02/pom.xml" />
+        <option value="$PROJECT_DIR$/../Mybatis03/pom.xml" />
+        <option value="$PROJECT_DIR$/../Mybatis04/pom.xml" />
+        <option value="$PROJECT_DIR$/../Mybatis05/pom.xml" />
+        <option value="$PROJECT_DIR$/../Mybatis05_annotation/pom.xml" />
       </list>
     </option>
   </component>
